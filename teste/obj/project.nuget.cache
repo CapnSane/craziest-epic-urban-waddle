@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXB4M64osC9ll356//Ll0AUkokZ/Kw/xYvzcX8s3CM7L5nxhrh6dn7aHWjm5JlHeCJQ+MUqgALFIvvhSK887NA==",
+  "success": true,
+  "projectFilePath": "/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/teste.csproj",
+  "expectedPackageFiles": [
+    "/home/leonardoschneider/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

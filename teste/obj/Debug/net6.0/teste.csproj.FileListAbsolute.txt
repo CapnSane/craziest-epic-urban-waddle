@@ -1,0 +1,15 @@
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.csproj.AssemblyReference.cache
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.AssemblyInfoInputs.cache
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.AssemblyInfo.cs
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.csproj.CoreCompileInputs.cache
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/bin/Debug/net6.0/teste
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/bin/Debug/net6.0/teste.deps.json
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/bin/Debug/net6.0/teste.runtimeconfig.json
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/bin/Debug/net6.0/teste.dll
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/bin/Debug/net6.0/ref/teste.dll
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/bin/Debug/net6.0/teste.pdb
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.dll
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/ref/teste.dll
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.pdb
+/home/leonardoschneider/Programas/Pessoal/craziest-epic-urban-waddle/teste/obj/Debug/net6.0/teste.genruntimeconfig.cache
